@@ -96,3 +96,13 @@ header.hero h2 {
         margin: 10px;
     }
 }
+
+svg{
+    overflow: visible;
+}
+
+.charts{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
